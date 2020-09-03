@@ -120,6 +120,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+### Changes for github deployment
+"homepage": "https://anshulsaxena-93.github.io/facerecognitionbrain"
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build",
 "start": "react-scripts start"
